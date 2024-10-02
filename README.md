@@ -2,7 +2,7 @@
 
 Trabalho do Primeiro Bimestre de Programação Distribuída e Concorrente 
 
-Alunos: Daniel Ambrosim Colodete; Caio Siqueira; João Marcos (sobrenome depois coloco)
+Alunos: Daniel Ambrosim Colodete; Caio Siqueira; João Marcos Maia Zoppi
 
 Ferramentas: OnlineGDB; Ferramentas de IA em gerais; Artigos diversos; Códigos afins;
 
